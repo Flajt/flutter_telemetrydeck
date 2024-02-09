@@ -1,3 +1,6 @@
+# Archived:
+This repository has been archived since there will be an official flutter telemetrydeck plugin soon.
+
 # flutter_telemetrydeck
 
 Wrapper for telemetrydeck analytics, a privacy friendly analytics services.
